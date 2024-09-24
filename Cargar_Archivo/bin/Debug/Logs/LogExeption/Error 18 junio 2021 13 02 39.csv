@@ -1,0 +1,1 @@
+Error message: Índice fuera de los límites de la matriz. Stack trace:    en Cargar_Archivo.Principal.btnCargar_Click(Object sender, EventArgs e) en C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\Principal.cs:línea 132

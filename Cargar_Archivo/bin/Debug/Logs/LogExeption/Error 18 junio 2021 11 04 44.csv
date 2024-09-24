@@ -1,0 +1,4 @@
+Error message: La cadena de entrada no tiene el formato correcto. Stack trace:    en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int32.Parse(String s)
+   en Cargar_Archivo.Principal.btnCargar_Click(Object sender, EventArgs e) en C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\Principal.cs:línea 247

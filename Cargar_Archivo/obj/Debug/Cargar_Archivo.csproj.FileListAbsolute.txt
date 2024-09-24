@@ -1,0 +1,267 @@
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.VerInformes.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.VerInformes.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.VerInformes.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.VerInformes.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Cargar_Archivo\Cargar_Archivo\obj\Debug\Cargar_Archivo.Error.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Error.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.VerInformes.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Error.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.VerInformes.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Cargar_Archivo.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\CSharpLib.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\CSharpLib.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Error.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Principal.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.VerInformes.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\obj\Debug\Cargar_Archivo.pdb

@@ -1,0 +1,15 @@
+Error message: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown error 1049 Inner exception: Unknown error 1049 Stack trace:    en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   en MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   en MySql.Data.MySqlClient.NativeDriver.Open()
+   en MySql.Data.MySqlClient.Driver.Open()
+   en MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   en MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   en MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   en MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en DAO.daoUsuarios.BuscarDni(String legajo) en C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\DAO\daoUsuarios.cs:línea 18
+   en NEGOCIO.negUsuarios.BuscarDni(String legajo) en C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\NEGOCIO\negUsuarios.cs:línea 14
+   en Cargar_Archivo.Principal.btnCargar_Click(Object sender, EventArgs e) en C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Cargar_Archivo - ConLosError\Cargar_Archivo\Principal.cs:línea 260

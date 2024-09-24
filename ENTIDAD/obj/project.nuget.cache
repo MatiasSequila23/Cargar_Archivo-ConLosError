@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dNn5/SAnVxUSHP7/NenRUUZVKV4Y/s1O5S7zIecy81//KjrS1A/kpg2cGRlvgsF6vlOPDJ4CCqKJ6DB21rkKiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alfredo Eichenberger\\Desktop\\PROYECTOS FINALES\\FRIGORIFICO\\Supervisor - Ultima version (26-6)\\Cargar_Archivo - ConLosError\\ENTIDAD\\ENTIDAD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alfredo Eichenberger\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alfredo Eichenberger\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

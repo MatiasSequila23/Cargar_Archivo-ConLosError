@@ -1,0 +1,77 @@
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.deps.json
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.deps.json
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Nueva carpeta\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal 19-05\Carga archivo supervisor - modificaciones 6 - 5 FUNCIONANDO 10-5\Cargar_Archivo\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Cargar_Archivo - ConLosError\ENTIDAD\obj\Debug\netstandard2.0\ENTIDAD.pdb
